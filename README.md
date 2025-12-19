@@ -18,10 +18,10 @@
 
 ## 2. Tasks
 
-- [Level C (Basic): “Primary automation of routine operations”](./01%20Task%20C/Task%20C.md)
-- [Level B (Intermediate): “Server Performance Optimization”](./02%20Task%20B/Task%20B.md)
-- [Level A (Advanced): “Migration to systemd timers and security”](./03%20Task%20A/Task%20A.md)
-- [Level S (Pet Project): “Building an SLA Monitoring System with Intelligent Planning”](./04%20Task%20S/Task%20S.md)
+- [Level C (Basic): “Primary automation of routine operations”](./01%20Task%20C/README.md)
+- [Level B (Intermediate): “Server Performance Optimization”](./02%20Task%20B/README.md)
+- [Level A (Advanced): “Migration to systemd timers and security”](./03%20Task%20A/README.md)
+- [Level S (Pet Project): “Building an SLA Monitoring System with Intelligent Planning”](./04%20Task%20S/README.md)
 
 ## 3. Assessment methodology
 
